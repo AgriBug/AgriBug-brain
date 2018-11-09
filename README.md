@@ -1,2 +1,2 @@
 # AgriBug-brain
-Image processing library for agribug
+Image processing library to detect plant diseases.
